@@ -1,0 +1,11 @@
+.custom-dot-list {
+  position: absolute;
+  bottom: 0px; /* Adjust this value to move the dots further down */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.carousel-container {
+  
+}
