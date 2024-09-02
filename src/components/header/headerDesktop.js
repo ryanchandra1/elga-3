@@ -16,22 +16,22 @@ function Header () {
 
                 <div className="flex justify-center items-center">
                     <ul className="flex justify-between items-center font-roboto text-[20px] text-[#C9CACC] space-x-[40px]">
-                        <a href=" #" id="home" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] hover:-translate-y-2 transition-all duration-200">
+                        <a href=" #" id="home" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] transition-all duration-200">
                             Home
                         </a>
-                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] hover:-translate-y-2 transition-all duration-200">
+                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] transition-all duration-200">
                             About Us
                         </a>
-                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] hover:-translate-y-2 transition-all duration-200">
+                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] transition-all duration-200">
                             Services
                         </a>
-                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] hover:-translate-y-2 transition-all duration-200">
+                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] transition-all duration-200">
                             Solution
                         </a>
-                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] hover:-translate-y-2 transition-all duration-200">
+                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] transition-all duration-200">
                             Careers
                         </a>
-                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] hover:-translate-y-2 transition-all duration-200">
+                        <a href=" #" className="active:text-[#FCFCFC] active:font-semibold hover:text-[#FCFCFC] transition-all duration-200">
                             Support
                         </a>
 
